@@ -1,13 +1,11 @@
-# React + Vite
+#Done with the stage 3 task for the HNGx internship
 
-Solution to HNGX Stage 3 Task.
+Implemented a drag-and-drop website using react-dnd
 
 ## Project was built With
 
 - Vite
 - React
-- React-router-dom
-- Tailwind CSS (for styling)
-- Firebase (for authentication)
+- Tailwind CSS 
+- Firebase 
 - React-dnd (for drag and drop)
-- React-dnd-html5-backend
